@@ -1,6 +1,6 @@
 # Formulário Avaliação Mentoria
 
-![]()
+![preview](https://github.com/TartarottiPaula/avaliation-form/blob/main/127.0.0.1_5500_Index2.html%20(1).png)
 
 > Stage 3 - Formulários, validações e customizações. 
 
